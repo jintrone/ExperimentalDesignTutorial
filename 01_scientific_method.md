@@ -51,42 +51,30 @@ Developing a clear and focused problem statement is the first step in experiment
 
 ### Examples
 
-### Examples of Problem Statements with Critiques
-
-#### Good Problem Statement:
-
-
-#### Bad Problem Statement:
-
-
-These examples illustrate the importance of specificity, clarity, and focus in crafting effective problem statements for scientific research. A well-defined problem statement sets the stage for a structured investigation, guiding the development of a hypothesis and experimental design.
-#### Good Problem Statements
-
-"Does increasing the duration of sunlight exposure affect the growth rate of sunflower plants?"
-
-- **Critique:** This is a good problem statement because it is clear, specific, and researchable. It precisely identifies the independent variable (duration of sunlight exposure) and the dependent variable (growth rate of sunflower plants), allowing for a focused investigation.
-
-"Will the application of nitrogen-based fertilizer every two weeks increase the yield of tomatoes compared to untreated plants?"
-
-- **Critique:** This statement is effective because it specifies the independent variable (application of nitrogen-based fertilizer), the dependent variable (yield of tomatoes), and the frequency of treatment. It's clear, focused, and sets a precise direction for research.
-
-"Does the presence of caffeine in the soil affect the germination rate of basil seeds?"
-
-- **Critique:** This is a well-formed problem statement. It identifies both the independent variable (presence of caffeine in the soil) and the dependent variable (germination rate of basil seeds), making it straightforward to design an experiment around.
-
-#### Bad Problem Statement Example 2:
 
 "Are sunflowers good?"
 
 - **Critique:** This problem statement is too vague and broad, lacking specificity and clarity. It does not define what "good" means in the context of sunflowers, nor does it specify aspects of sunflowers to be studied or what outcomes would be considered "good." This lack of detail makes it untestable as a scientific question.
 
+"Does increasing the duration of sunlight exposure affect the growth rate of sunflower plants?"
+
+- **Critique:** This is a good problem statement because it is clear, specific, and researchable. It precisely identifies the independent variable (duration of sunlight exposure) and the dependent variable (growth rate of sunflower plants), allowing for a focused investigation.
+
 "Why are pandas so cute?"
 
 - **Critique:** This statement is subjective and not directly researchable in a scientific context. It does not propose a clear, measurable relationship between variables and is based on personal perception rather than a scientific inquiry.
 
+"Will the application of nitrogen-based fertilizer every two weeks increase the yield of tomatoes compared to untreated plants?"
+
+- **Critique:** This statement is effective because it specifies the independent variable (application of nitrogen-based fertilizer), the dependent variable (yield of tomatoes), and the frequency of treatment. It's clear, focused, and sets a precise direction for research.
+
 "Do plants like music?"
 
 - **Critique:** This problem statement anthropomorphizes plants and lacks specificity in terms of what "like" means scientifically. It does not clearly define measurable variables or a specific aspect of the relationship between plants and music to be studied.
+
+"Does the presence of caffeine in the soil affect the germination rate of basil seeds?"
+
+- **Critique:** This is a well-formed problem statement. It identifies both the independent variable (presence of caffeine in the soil) and the dependent variable (germination rate of basil seeds), making it straightforward to design an experiment around.
 
 #### **Activity**
 
