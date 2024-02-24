@@ -1,4 +1,4 @@
-### Designing the Experiment
+# Designing the Experiment
 
 When you're ready to design your experiment, remember, the goal is to find out if your hypothesis is correct. Here's how you can start:
 
@@ -18,7 +18,7 @@ When you're ready to design your experiment, remember, the goal is to find out i
 
 **Points to remember**
 
-When you're setting up and documenting your experiment, it's crucial to provide detailed and clear information. This ensures that someone else could accurately replicate your experiment based solely on your description. Here's how to ensure your experiment's materials and procedure meet these standards:
+When you're setting up and documenting your experiment, be sure to provide detailed and clear information. This ensures that someone else could accurately replicate your experiment based solely on your description. Here's how to ensure your experiment's materials and procedure meet these standards:
 
 ### Materials:
 - **List Format:** Start by listing all the materials you'll use in your experiment. This list should be clear and separate from your procedure to avoid confusion.
@@ -77,6 +77,8 @@ By adhering to these guidelines, you ensure that your experimental design is not
 - Standard potting soil
 - Identical pots
 
+![experiment design](design.webp)
+
 **Procedure:**
 1. **Setup:** Plant bean plants in identical pots with standard potting soil. Ensure all plants are of similar size and health.
 2. **Light Exposure:** Assign each group of 6 plants to a different light color, including one group under natural light as a control. Use the timer to ensure all plants receive light for the same duration daily (12 hours).
@@ -93,13 +95,13 @@ By adhering to these guidelines, you ensure that your experimental design is not
 </details>
 
 
-### Data Collection: Gathering and Organizing Your Findings
+# Data Collection: Gathering and Organizing Your Findings
 
 - **Quantitative Data:** This is numerical data, like how tall a plant grows in centimeters. Use tools like rulers or scales to collect precise measurements.
 - **Qualitative Data:** This describes qualities, like the health of a plant based on leaf color. Take notes or photos to record these observations.
 - **Organizing Data:** Use tables to keep track of your data. Charts and graphs can help visualize the relationship between your independent and dependent variables.
 
-### Data Collection: Strategies and Organizing
+## Strategies and Organizing
 
 **Gathering Data:**
 - **Qualitative Data:** These are descriptive data and can include observations about behaviors, physical characteristics, or responses not easily quantified. For example, noting how plants react to different music genres could involve descriptions of leaf color or plant demeanor.
