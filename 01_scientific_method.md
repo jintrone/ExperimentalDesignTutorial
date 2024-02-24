@@ -105,5 +105,3 @@ To understand and identify the components of well-designed and poorly designed e
 1. Why is it important to have a large enough sample size in experiments?
 2. How can confounding variables affect the outcome of an experiment?
 3. Why is the control group necessary in an experimental design?
-
-This activity sheet is designed to encourage students to think critically about the structure of experiments and identify common pitfalls in experimental design. It can lead to a deeper understanding of how to conduct scientific research effectively and the importance of rigorous experimental planning.
