@@ -132,39 +132,37 @@ To understand and identify the components of well-designed and poorly designed e
 
 **Description:** A group of 100 identical plants, grown under the same conditions (light, water, soil type, and pot size), were divided into two groups. Group A (50 plants) received a new plant fertilizer, while Group B (50 plants) did not receive any fertilizer. Both groups were observed for a month to measure growth in height.
 
-- **Identify the Independent Variable:**
-- **Identify the Dependent Variable:**
-- **What is the Control Group?**
-- **Discuss why this is a good or bad experiment:**
-
----
+- Identify the Independent Variable:
+- Identify the Dependent Variable:
+- What is the Control Group?
+- Discuss why this is a good or bad experiment:
 
 #### Experiment 2: Testing a New Sleep Aid
 
 **Description:** To test the effectiveness of a new sleep aid, 20 volunteers are given the sleep aid for a week, and their sleep duration is recorded. At the end of the week, it's reported that all volunteers experienced longer sleep durations.
 
-- **Identify the Independent Variable:**
-- **Identify the Dependent Variable:**
-- **What is the Control Group?**
-- **Discuss why this is a good or bad experiment:**
+- Identify the Independent Variable:
+- Identify the Dependent Variable:
+- What is the Control Group?
+- Discuss why this is a good or bad experiment:
 
 #### Experiment 3: The Effect of Music on Study Efficiency
 
 **Description:** A study is conducted with 10 students to see if listening to classical music while studying improves test scores. The students studied with music for one test and without music for another test. The tests were on different subjects.
 
-- **Identify the Independent Variable:**
-- **Identify the Dependent Variable:**
-- **What is the Control Group?**
-- **Discuss why this is a good or bad experiment:**
+- Identify the Independent Variable:
+- Identify the Dependent Variable:
+- What is the Control Group?
+- Discuss why this is a good or bad experiment:
 
 #### Experiment 4: The Impact of Exercise on Concentration
 
 **Description:** A researcher wants to test if exercise improves concentration. They ask participants to exercise for 30 minutes, then immediately perform a concentration task, comparing the results to their baseline performance without exercise. The study involves 5 participants.
 
-- **Identify the Independent Variable:**
-- **Identify the Dependent Variable:**
-- **What is the Control Group?**
-- **Discuss why this is a good or bad experiment:**
+- Identify the Independent Variable:
+- Identify the Dependent Variable:
+- What is the Control Group?
+- Discuss why this is a good or bad experiment:
 
 ---
 
