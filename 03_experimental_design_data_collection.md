@@ -119,11 +119,7 @@ Suppose you have data from an experiment on the effect of study duration on test
 2. **Plotting the Data:**
    - You would typically use a scatter plot or line graph for this type of data. Each point on the graph represents a data pair of study duration and the corresponding test score.
 
-<div style="background-color: #FF0000">
-
-   ![image](https://github.com/jintrone/ExperimentalDesignTutorial/assets/477721/dfa117c7-238b-4809-b581-16c8f20eace6)
-
-</div>
+   ![image](graph.jpg)
 
 When plotting the data, make sure to annotate the axes and plot in the following manner.
    - Title: "Effect of Study Duration on Test Scores"
