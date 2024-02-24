@@ -113,30 +113,29 @@ For the following scenarios, identify independent, dependent, and controlled var
 
 <details>
 <summary>Answer</summary>
+   
   - **Independent Variable (IV):** The level of light pollution (urban vs. rural areas).
   - **Dependent Variable (DV):** Nocturnal insect population activity, measured by the number of insects caught in light traps nightly.
   - **Controlled Variables (CVs):** Type of light trap used, time of night when traps are active, duration traps are left out.
   - **Operational Definitions:** 
     - **Light Pollution:** Categorized based on area: 'urban' areas are those with artificial lighting visible after 9 PM; 'rural' areas have no artificial lighting visible after 9 PM.
     - **Nocturnal Insect Activity:** Quantified by counting the number of insects captured in the traps between 9 PM and 5 AM each night.
+
 </details>
 
 - **Experiment Description:** A study investigates whether group study or solo study is more effective for learning new vocabulary in a foreign language among high school students, assessed by a test after one week.
 
 <details>
 <summary>Answer</summary>
+   
   - **Independent Variable (IV):** Study method (group study vs. solo study).
   - **Dependent Variable (DV):** The number of new vocabulary words correctly recalled in a test.
   - **Controlled Variables (CVs):** Number of vocabulary words studied, study duration, time of day when studying occurs, the difficulty level of the vocabulary.
   - **Operational Definitions:**
     - **Study Method:** 'Group study' involves studying with two or more peers; 'solo study' involves studying alone.
     - **Vocabulary Recall:** Measured by a standardized test consisting of 50 new vocabulary words, with recall success quantified by the number of words correctly translated.
+
 </details>
-
-These scenarios are designed to practice identifying different types of variables in experimental setups and formulating operational definitions to ensure clarity and replicability in research.
-
-7. **Discussion and Feedback:**
-   - Review student responses, offering feedback on their identification and definitions of variables. Discuss common mistakes or oversights, such as confusing independent and dependent variables or neglecting controlled variables.
 
 This structure aims to comprehensively cover the types of variables in experimental design, aligning with the rubric's requirements and ensuring students grasp the importance of clear definitions and control in scientific research.
  
