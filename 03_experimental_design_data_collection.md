@@ -158,9 +158,9 @@ Consider an experiment where we're observing the effect of different environment
 
 Over a week, you observe people in different environments and note their mood states. Your notes might look like this:
 
-Nature: 12 observations of "Happy," 3 of "Neutral," 1 of "Sad"
-Urban: 5 observations of "Happy," 8 of "Neutral," 7 of "Sad"
-Indoor: 3 observations of "Happy," 9 of "Neutral," 8 of "Sad"
+- Nature: 12 observations of "Happy," 3 of "Neutral," 1 of "Sad"
+- Urban: 5 observations of "Happy," 8 of "Neutral," 7 of "Sad"
+- Indoor: 3 observations of "Happy," 9 of "Neutral," 8 of "Sad"
 
 2. **Plotting the Data:**
 
