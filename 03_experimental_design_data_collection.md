@@ -16,6 +16,25 @@ When you're ready to design your experiment, remember, the goal is to find out i
    - Include details on how you'll change your independent variable and how you'll measure your dependent variable.
    - Don't forget to mention how often you'll take measurements and how long the experiment will run.
 
+**Points to remember**
+
+When you're setting up and documenting your experiment, it's crucial to provide detailed and clear information. This ensures that someone else could accurately replicate your experiment based solely on your description. Here's how to ensure your experiment's materials and procedure meet these standards:
+
+### Materials:
+- **List Format:** Start by listing all the materials you'll use in your experiment. This list should be clear and separate from your procedure to avoid confusion.
+- **Quantification:** For each material, specify the amount you'll use in the experiment. This detail is crucial for replication. For example, instead of "water," say "500ml of water."
+- **Relevance:** Only include materials you actually use. If something was available but not used, don't list it. This keeps your materials list concise and focused.
+
+### Procedure and Set-Up Diagrams:
+- **Numbered List:** Write each step of your procedure as a separate item in a numbered list. This format makes the procedure easy to follow.
+- **Logical Sequence:** Ensure that the steps are ordered logically. Each action should flow into the next, guiding anyone trying to replicate your experiment through the process smoothly.
+- **Detail and Clarity:** Your procedure should be detailed enough for someone else to replicate the experiment without guessing any steps. Avoid assuming knowledge that isn't explicitly stated.
+- **Repeated Trials:** Mention if and how you conduct repeated trials. This might include repeating a measurement multiple times to ensure accuracy. Be clear that repeats are at the same condition level, not across different conditions.
+- **Diagrams:** Include diagrams or sketches that illustrate your experimental setup. These visuals are invaluable for providing clarity and enhancing understanding. Make sure each diagram is labeled, including titles and key components.
+- **Data Collection:** Explain what data you'll collect, both quantitative (numbers) and qualitative (descriptions), and how you plan to collect it. This includes specifying the method for determining and measuring outcomes related to your experiment’s purpose.
+
+By adhering to these guidelines, you ensure that your experimental design is not only rigorous but also accessible to others in the scientific community. This practice is fundamental in science, allowing for the verification and replication of results, which are cornerstones of scientific progress.
+
 #### Examples
 
 **Testing Plant Growth Under Different Music Genres**
@@ -145,7 +164,7 @@ Indoor: 3 observations of "Happy," 9 of "Neutral," 8 of "Sad"
 
 To visualize this data, you decide to create a bar chart that shows the mood distribution across the three environments.
 
-
+   ![image](graph_qual.jpg)
 
 
 
