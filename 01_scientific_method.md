@@ -31,9 +31,9 @@ Experimental design lays the blueprint for conducting experiments. It ensures th
 - **Minimize Bias:** Systematic planning helps to eliminate or reduce bias in the selection of subjects, the collection of data, and the interpretation of results. This includes using controls and randomization to ensure that the results are due to the experiment and not external factors.
 - **Enhance Replicability:** A well-designed experiment can be replicated by other researchers, which is essential for validating results and building a body of scientific knowledge.
 
-### Crafting a Problem Statement
+### Problem Statements
 
-Developing a clear and focused problem statement is the first step in experimental design. It lays the foundation for a testable hypothesis and experimental investigation.
+Developing a clear and focused problem statement is the first step in experimental design. It lays the foundation for a testable hypothesis and experimental investigation. 
 
 1. **Introduction to Problem Statements:**
    - **Definition:** A concise description of the issue to be addressed or the condition to be improved upon. It identifies the gap between the current (problem) state and desired (goal) state.
@@ -43,14 +43,8 @@ Developing a clear and focused problem statement is the first step in experiment
    - **Clarity:** The statement should be clear and understandable without requiring additional explanation.
    - **Specificity:** It should be specific enough to guide the research, defining the scope without being too narrow or too broad.
    - **Relevance:** Highlights the significance of the problem and its implications for the field of study.
-
-3. **Steps to Crafting a Problem Statement:**
-   - **Identify the Issue:** Begin with broad research or observations and narrow down to a specific issue.
-   - **Explain the Impact:** Describe why this issue is a problem, who is affected, and the consequences if it is not addressed.
-   - **State Your Goal:** Clearly articulate what you hope to achieve by addressing this problem.
-
+  
 ### Examples
-
 
 "Are sunflowers good?"
 
@@ -76,9 +70,33 @@ Developing a clear and focused problem statement is the first step in experiment
 
 - **Critique:** This is a well-formed problem statement. It identifies both the independent variable (presence of caffeine in the soil) and the dependent variable (germination rate of basil seeds), making it straightforward to design an experiment around.
 
-#### **Activity**
 
-Choose a topic of interest and draft your own problem statement. This could be related to ecological conservation, genetic variation, or any other area of interest.
+#### **From observation to problem statement**
+
+The process of developing a problem statement starts with an observation.  From there, we identify the main elements of the problem, knowns and unknowns, and finally, craft the statement itself.
+
+Let's use the observation "In a garden, bees are more frequently seen on lavender plants than on roses" to illustrate the process of crafting a good problem statement:
+
+1. **Identify the Main Elements:** The key elements here are bees, lavender plants, and roses. The observation suggests a preference or behavior pattern related to these elements.
+
+2. **Define What is Known and Unknown:** It's known that bees are more attracted to lavender than roses in this specific garden. What's unknown is why bees prefer lavender and whether this preference is consistent across different environments or conditions.
+
+3. **Drafting the Problem Statement:** A good problem statement might be, "What factors contribute to bees' preference for lavender plants over roses in garden environments?"
+
+### Potential Mis-steps in the Process:
+
+- **Being Too Broad:** A problem statement like "Why do bees like flowers?" is too broad and doesn't specify the observed behavior or the specific plants involved.
+  
+- **Assuming Causes:** A statement such as "Bees are more attracted to lavender than roses due to their color" assumes a cause without evidence. It's important the problem statement remains open to investigation.
+
+- **Ignoring the Specifics:** "Do insects prefer certain plants?" This overlooks the specific observation about bees and could lead to a diffuse focus, diluting the research's effectiveness.
+
+#### Activity
+
+Craft problem statements for the following observations.
+
+- Observation 2: "A classroom's indoor plants have yellowing leaves despite regular watering."
+- Observation 3: "After a rainy week, the growth of mold on bread accelerates."
 
 ### Reproducibility and Statistical Proof
 
