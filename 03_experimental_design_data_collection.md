@@ -100,6 +100,43 @@ When you're ready to design your experiment, remember, the goal is to find out i
 - Choose the appropriate graph type based on the data: use line graphs/scatter plots for quantitative independent variables and bar graphs for qualitative independent variables.
 - Label all parts of graphs correctly, including titles, axes, and units, to ensure clarity and facilitate understanding.
 
-![image](https://github.com/jintrone/ExperimentalDesignTutorial/assets/477721/dfa117c7-238b-4809-b581-16c8f20eace6)
+### Example: Quantitative Data ###
+
+Suppose you have data from an experiment on the effect of study duration on test scores. Your independent variable would be the study duration in hours, and your dependent variable would be the test scores.
+
+1. **Collect the Data:**
+   - You would generally collect your data into a table, such as the following:
+
+| Study Duration (Hours) | Test Scores |
+|------------------------|-------------|
+| 1                      | 60          |
+| 2                      | 65          |
+| 3                      | 70          |
+| 4                      | 75          |
+| 5                      | 80          |
+   
+
+2. **Plotting the Data:**
+   - You would typically use a scatter plot or line graph for this type of data. Each point on the graph represents a data pair of study duration and the corresponding test score.
+
+<div style="background-color: #FF0000">
+
+   ![image](https://github.com/jintrone/ExperimentalDesignTutorial/assets/477721/dfa117c7-238b-4809-b581-16c8f20eace6)
+
+</div>
+
+When plotting the data, make sure to annotate the axes and plot in the following manner.
+   - Title: "Effect of Study Duration on Test Scores"
+   - X-axis label: "Study Duration (Hours)" (Independent Variable)
+   - Y-axis label: "Test Scores" (Dependent Variable)
+   - You might also include a legend if you have multiple datasets or lines on the same graph, and a grid to make the data points easier to interpret.
+
+By plotting the data in this manner, you visually represent the relationship between study duration and test scores, making it easier to see trends, patterns, or outliers in your data.
+
+
+
+This table clearly presents each study duration along with the corresponding test score, making it easy to understand the relationship between the two variables.
+
+
 
 
