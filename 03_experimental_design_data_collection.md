@@ -129,9 +129,22 @@ When plotting the data, make sure to annotate the axes and plot in the following
 
 By plotting the data in this manner, you visually represent the relationship between study duration and test scores, making it easier to see trends, patterns, or outliers in your data.
 
+### Example: Qualitative Data ###
 
+Consider an experiment where we're observing the effect of different environments on the mood of a group of people. The environments are "Nature," "Urban," and "Indoor." The qualitative data could be the observed mood states: "Happy," "Neutral," and "Sad."
 
-This table clearly presents each study duration along with the corresponding test score, making it easy to understand the relationship between the two variables.
+1: **Collect the Data:**
+
+Over a week, you observe people in different environments and note their mood states. Your notes might look like this:
+
+Nature: 12 observations of "Happy," 3 of "Neutral," 1 of "Sad"
+Urban: 5 observations of "Happy," 8 of "Neutral," 7 of "Sad"
+Indoor: 3 observations of "Happy," 9 of "Neutral," 8 of "Sad"
+
+2. **Plotting the Data:**
+
+To visualize this data, you decide to create a bar chart that shows the mood distribution across the three environments.
+
 
 
 
