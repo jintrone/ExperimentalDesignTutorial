@@ -26,6 +26,7 @@ For data trends, your claim would address the relationship between the independe
 
 By carefully constructing your analysis using the CER framework, you ensure that your conclusions are not only based on solid data but are also logically argued and scientifically grounded. This approach enhances the clarity and persuasiveness of your scientific writing, making it more effective and impactful.
 
+---
 ## An Example Report Using the CER Framework
 
 ### The Effect of Light Color on Plant Growth
@@ -48,5 +49,41 @@ Using the criterion of 1.5 times the interquartile range (IQR) to identify outli
 #### Trend Analysis
 The trend observed in the data, represented by the higher average growth under blue light compared to red light, aligns with our understanding of plant biology and the specific effects of light wavelengths on photosynthesis. The statistical analysis, including the mean growth rates and the absence of significant outliers, underscores the effect of the independent variable (light color) on the dependent variable (plant growth).
 
+---
+### Formulating a Conclusion Using the CER Framework
+
+Concluding your scientific report involves synthesizing your findings to address your initial hypothesis. A well-crafted conclusion restates the hypothesis, summarizes the evidence, and presents a reasoned argument about whether the evidence supports the hypothesis. Here's how to structure your conclusion following the provided rubric:
+
+#### Restate the Hypothesis
+
+Start your conclusion by restating the original hypothesis of your experiment. This reminds the reader of the purpose of your investigation and sets the stage for discussing your findings. There's no need to alter the wording—simply repeat the hypothesis as it was initially presented.
+
+#### Apply the CER Framework to the Hypothesis
+
+Next, use the Claim, Evidence, Reasoning (CER) framework to articulate your findings in relation to the hypothesis.
+
+1. **Claim:** Begin with a clear statement about whether the evidence collected in the experiment supports your hypothesis. Remember, a hypothesis is not "proven" correct or incorrect; rather, it is either supported or not supported by the evidence.
+
+2. **Evidence:** Summarize the key data points or observations that form the basis of your claim. This should include both qualitative and quantitative evidence gathered during your experiment. Be specific and ensure that the evidence directly relates to your hypothesis.
+
+3. **Reasoning:** Connect your claim and evidence with logical reasoning. Explain how the evidence supports your hypothesis, drawing on scientific principles or theories as necessary. This is where you interpret the evidence in the context of your hypothesis, making a clear link between what was observed and the scientific rationale behind it.
+
+#### Example Conclusion
+
+Let's consider an experiment with the hypothesis: "Plants exposed to blue light will grow faster than those exposed to red light."
+
+1. **Restate the Hypothesis:** "Our experiment aimed to test the hypothesis that plants exposed to blue light would grow faster than those exposed to red light."
+
+2. **Claim:** "The data obtained in our experiment supports the hypothesis that blue light promotes faster growth in plants compared to red light."
+
+3. **Evidence:** "Plants under blue light grew an average of 20 cm over the six-week period, while those under red light grew only 15 cm. The growth rate was more consistent under blue light, as indicated by a lower standard deviation."
+
+4. **Reasoning:** "Blue light is known to efficiently drive photosynthesis more than red light, which explains the observed difference in growth rates. The higher energy photons in blue light provide a greater energy source for the photosynthetic process, leading to increased growth."
+
+In crafting your conclusion, ensure clarity and directness. Your goal is to communicate your findings effectively, allowing readers to understand the outcome of your experiment and its implications.
+
+---
+## Sample Conlucsion
+
 ### Conclusion
-The data collected from this experiment, analyzed through the CER framework, clearly supports the claim that blue light promotes more significant plant growth than red light. This conclusion is backed by evidence of average growth rates, variability analysis, and the absence of outliers, with reasoning grounded in known scientific principles of photosynthesis. This experiment's findings contribute to our understanding of optimal light conditions for plant growth, with potential applications in agriculture and botany.
+Our experiment aimed to test the hypothesis that plants exposed to blue light would grow faster than those exposed to red light. The data collected from this experiment clearly supports this hypothesis. Plants under blue light grew an average of 20 cm over the six-week period, while those under red light grew only 15 cm. The growth rate was more consistent under blue light, as indicated by a lower standard deviation. Blue light is known to efficiently drive photosynthesis more than red light, which explains the observed difference in growth rates. The higher energy photons in blue light provide a greater energy source for the photosynthetic process, leading to increased growth. This experiment's findings contribute to our understanding of optimal light conditions for plant growth, with potential applications in agriculture and botany.
